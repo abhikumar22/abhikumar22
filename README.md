@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hello World👋
 
-<!--
-**abhikumar22/abhikumar22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![HitCount](http://hits.dwyl.com/abhikumar22/abhikumar22.svg)](http://hits.dwyl.com/abhikumar22/abhikumar22)
+# Abhishek kumar
+---
+A Passionate Full Stack Software Engineer in love with Javascript and Python
+---
+```
+while(noSuccess):
+  if( dead )
+    break;
+  else
+    tryagain();
+```
